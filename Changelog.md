@@ -1,7 +1,6 @@
 AppleALC Changelog
 ==================
 #### v1.9.0
-
 - Added ALC298 layout-id 94 for Lenovo Yoga C940 by idalin
 - Added ALC269VB layout-id 37 for Tecno T1 IceLake by Ar4erR07
 - Added ALC298 layout-id 25 for Razer Blade 15 2018 Advanced by hoaug-tran
