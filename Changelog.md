@@ -6,6 +6,7 @@ AppleALC Changelog
 - Added ALC298 layout-id 25 for Razer Blade 15 2018 Advanced by hoaug-tran
 - Added ALC295 layout-id 33 for DELL Latitude 7210 2-in-1 by Lorys89
 - Added ALC298 layout-id 15 for DELL Precision 5540 by hiimpiscean
+- Added ALC295 layout-id 69 for Lenovo_X1_Tablet_3°Gen by Baio1977
 
 #### v1.8.9
 - Added ALC255 layout-id 80 for Acer Aspire 7 A715-42G AMD by Long5436
