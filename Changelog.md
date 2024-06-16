@@ -1,7 +1,7 @@
 AppleALC Changelog
 ==================
 #### v1.9.1
-- Added constants for macOS 14 support
+- Added constants for macOS 15 support
 - Added ALC275 layout-id 15 for Sony Vaio SVD11225PXB by hiimpiscean
 - Improved ALC298 layout-id 15 for Dell Precision 5540 by hiimpiscean
 - Added ALC892 layout-id 21 for GIGABYTE B365M AORUS ELITE by EylinSir
