@@ -1,5 +1,8 @@
 AppleALC Changelog
 ==================
+#### v1.9.1
+- Added constants for macOS 14 support
+
 #### v1.9.0
 - Added ALC298 layout-id 94 for Lenovo Yoga C940 by idalin
 - Added ALC269VB layout-id 37 for Tecno T1 IceLake by Ar4erR07
