@@ -12,6 +12,7 @@ AppleALC Changelog
 - Added ALC295 layout-id 75 for Dell Inspiron 7590 (only ext mic) by Lorys89
 - Improved ALC295 layout-id 33 by Lorys89 (use with ComboJack Tool)
 - Added ALC700 layout-id 22 For NUC8i7HVK by Baio1977
+- Added xmllint check to test for incorrect real plist fields in xml files, thanks @dreamwhite
 
 #### v1.9.0
 - Added ALC298 layout-id 94 for Lenovo Yoga C940 by idalin
